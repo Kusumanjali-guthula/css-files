@@ -1,0 +1,103 @@
+/*.external{
+	font-family: cursive;
+	border: 5px solid red;
+	background-color: violet;
+	color: black;
+	font-size: 50px;
+}
+*/
+
+
+
+/* element selector
+p{
+	color: red;
+	font-size: 50px;
+}
+
+div{
+	background-color: blue;
+	height: 50px;
+	width: 50px;
+} */
+
+
+
+/* universal selector
+*{
+	font-size: 50px;
+	font-family: cursive;
+	color:green;
+} */
+
+
+
+
+
+
+
+/* attribute selector
+input[type]{
+	color: yellow;
+}
+
+input[type="number"]{
+	color: red;
+}
+
+input[type="email"]{
+	color: green;
+}
+
+input[type="number"]{
+	color: pink;
+}
+
+a[href]{
+	background-color: orange;
+	color: pink;
+}
+
+img[src]{
+	height: 50px;
+	width: 50px;
+}  */
+
+
+/* pseudo selector
+a:link{
+	color: brown;
+}
+
+a:visited{
+	color: green;
+}
+
+a:hover{
+	color:red;
+	font-size: 50px;
+}
+
+a:active{
+	color: yellow;
+}
+
+div{
+	height: 200px;width: 200px;background-color: maroon;
+}
+
+div:hover{
+	height: 500px;
+	width: 500px;
+	background-color: red;
+}*/
+
+
+
+
+
+body{
+	background-image: url('galaxy.jpg');
+	background-repeat: no-repeat;
+	background-size:cover;
+}
